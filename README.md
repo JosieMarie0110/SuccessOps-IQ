@@ -81,7 +81,3 @@ Planned improvements include:
 
 ---
 
-## Author
-
-Josephine Gutierrez  
-Customer Success professional focused on SaaS platforms, cybersecurity technologies, and strategic customer engagement.
